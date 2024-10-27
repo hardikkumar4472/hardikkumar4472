@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/hardikkumar4472/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/hardikkumar4472/count.svg?"/>
 </div>
 
 ###
