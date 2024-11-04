@@ -32,8 +32,19 @@
 </div>
 
 ###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hardikkumar4472&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hardikkumar4472&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkumar4472&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <img src="https://raw.githubusercontent.com/hardikkumar4472/hardikkumar4472/output/snake.svg" alt="Snake animation" />
+
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hardikkumar4472&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
