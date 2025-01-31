@@ -1,9 +1,6 @@
 <p align="left">I'm Hardik, aspring software developer 👨‍💻 working in this field since 2023 🚀<br><br>🔭 I’m currently working on a Project  that solves real life problem using ML and Web technologies<br><br>🌱 I’m currently learning C++ and DSA.<br><br>❓ Ask me about anything related to all these technologies<br><br>⚡ Fun fact: Bugs are just hidden features</p>
 
 ###
-
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -30,7 +27,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hardikkumar4472&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=hardikkumar4472&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkumar4472&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
