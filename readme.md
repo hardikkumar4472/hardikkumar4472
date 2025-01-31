@@ -37,7 +37,7 @@
 
 <img src="https://raw.githubusercontent.com/hardikkumar4472/hardikkumar4472/output/snake.svg" alt="Snake animation" />
 # 📊 Leetcode Badges:
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Hardik_Kumar4472}" alt="LeetCode Badges" />
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Hardik_Kumar4472&animated=true)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
