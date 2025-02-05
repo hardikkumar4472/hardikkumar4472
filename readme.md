@@ -26,10 +26,7 @@
 ###
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hardikkumar4472&theme=dark&hide_border=false)<br/>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkumar4472&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <img src="https://raw.githubusercontent.com/hardikkumar4472/hardikkumar4472/output/snake.svg" alt="Snake animation" />
