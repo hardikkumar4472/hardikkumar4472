@@ -33,7 +33,7 @@
 
 <img src="https://raw.githubusercontent.com/hardikkumar4472/hardikkumar4472/output/snake.svg" alt="Snake animation" />
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Hardik_Kumar4472&theme=github-dark&border=border&animated=true)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=&theme=github-dark&border=border&animated=true)
 
 
 
