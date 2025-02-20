@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkumar4472&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Hardik_Kumar4472&theme=github-dark&border=border&animated=true)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Hardik_Kumar4472&theme=dark&border=border&animated=true)
 
 
 <img src="https://raw.githubusercontent.com/hardikkumar4472/hardikkumar4472/output/snake.svg" alt="Snake animation" />
