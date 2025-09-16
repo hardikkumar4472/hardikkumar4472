@@ -1,7 +1,7 @@
 
 
 
-<p align="left">I am Hardik, aspring software developer 👨‍💻 working in this field since 2023 🚀<br><br>🔭 I’m currently working on a Project  that solves real life problem using ML and Web technologies<br><br>🌱 I am currently learning C++ and DSA.<br><br>❓ Ask me about anything related to all these technologies<br><br>⚡ Fun fact: Bugs are just hidden features</p>
+<p align="left">I am Hardik, aspring software developer 👨‍💻 working in this field since 2023 🚀<br><br>🔭 I’m currently working on multiple Project  that solves real life problem using ML and Web technologies<br><br>🌱 I am currently learning C++ and DSA.<br><br>❓ Ask me about anything related to all these technologies<br><br>⚡ Fun fact: Bugs are just hidden features</p>
 
 <div align="center"> 
   
