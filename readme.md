@@ -27,30 +27,7 @@
   <!-- Tech stack icons -->
   <h2>🧰 Tech Stack</h2>
 
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nodejs,express,mysql,postgresql,mongodb,redis,git,github,linux,docker&perline=8" />
-
-  <br/><br/>
-
-  <!-- Detailed skills -->
-  <h3>💻 Languages</h3>
-  <p>
-    C, C++, Python, JavaScript, TypeScript
-  </p>
-
-  <h3>🧩 Frameworks & Libraries</h3>
-  <p>
-    React.js, React Native, Node.js, Express.js, RESTful APIs, JWT, HTML5, CSS3
-  </p>
-
-  <h3>🛠 Tools & Platforms</h3>
-  <p>
-    Git, GitHub, Postman, Figma, Vercel, Render, Jira, Docker, Hugging Face, Sentry.io, Slack
-  </p>
-
-  <h3>📚 CS Fundamentals</h3>
-  <p>
-    Data Structures & Algorithms, DBMS, OOP, Computer Networks, Agile
-  </p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,reactnative,nodejs,express,html,css,mysql,postgresql,mongodb,redis,git,github,postman,figma,vercel,jira,slack,linux,docker&perline=8" />
 
   <!-- Currently working on / learning -->
   <p>
@@ -144,14 +121,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <!-- Profile visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=hardikkumar4472&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views counter" />
-  <p><i>Thanks for visiting my profile 👋</i></p>
-</div>
-
----
 
 <div align="center">
   
