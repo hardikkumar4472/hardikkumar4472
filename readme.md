@@ -43,7 +43,6 @@
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-  <p><i>Live streaks, contribution trends, and language insights – all auto‑updated from GitHub.</i></p>
 </div>
 
 <br/>
@@ -71,7 +70,6 @@
   <img
     width="800"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardikkumar4472&theme=github_dark"
-    alt="Year‑wise GitHub profile summary (contribution timeline, most active time, etc.)"
   />
 </div>
 
@@ -101,19 +99,10 @@
 
 ---
 
-<div align="center">
-  <h2>🏆 Achievements & Trophies</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hardikkumar4472&theme=dracula&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
 
 ---
 
-<div align="center">
-  <h2>⚙️ Automation & Fun Animations</h2>
-</div>
+
 <br>
 <div align="center">
   <!-- Snake animation on contributions grid -->
