@@ -147,8 +147,8 @@
 
 <div align="center">
   <!-- Profile visitor counter -->
-  <img src="https://profile-counter.glitch.me/hardikkumar4472/count.svg?" alt="Visitor Count" />
-  <p><i>You're visitor number above — thanks for stopping by 👋</i></p>
+  <img src="https://komarev.com/ghpvc/?username=hardikkumar4472&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views counter" />
+  <p><i>Thanks for visiting my profile 👋</i></p>
 </div>
 
 ---
