@@ -3,19 +3,6 @@
 
 <p align="left">I am Hardik, aspring software developer 👨‍💻 working in this field since 2023 🚀<br><br>🔭 I’m currently working on multiple Project  that solves real life problem using ML and Web technologies<br><br>🌱 I am currently learning C++ and DSA.<br><br>❓ Ask me about anything related to all these technologies<br><br>⚡ Fun fact: Bugs are just hidden features</p>
 
-<div align="center"> 
-  
-
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Hardik_Kumar4472&theme=dark&border=border&animated=true)
-
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Hardik_kumar4472?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
-
-
-
-
 <br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
