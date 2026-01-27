@@ -31,6 +31,27 @@
 
   <br/><br/>
 
+  <!-- Detailed skills -->
+  <h3>💻 Languages</h3>
+  <p>
+    C, C++, Python, JavaScript, TypeScript
+  </p>
+
+  <h3>🧩 Frameworks & Libraries</h3>
+  <p>
+    React.js, React Native, Node.js, Express.js, RESTful APIs, JWT, HTML5, CSS3
+  </p>
+
+  <h3>🛠 Tools & Platforms</h3>
+  <p>
+    Git, GitHub, Postman, Figma, Vercel, Render, Jira, Docker, Hugging Face, Sentry.io, Slack
+  </p>
+
+  <h3>📚 CS Fundamentals</h3>
+  <p>
+    Data Structures & Algorithms, DBMS, OOP, Computer Networks, Agile
+  </p>
+
   <!-- Currently working on / learning -->
   <p>
     🔭 Currently building: <b>production-grade projects</b> using ML + Web technologies<br/>
@@ -45,21 +66,54 @@
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
+  <p><i>Live streaks, contribution trends, and language insights – all auto‑updated from GitHub.</i></p>
 </div>
 
 <br/>
+
 <div align="center">
-  <!-- Contribution streak -->
-  <img width="390" src="https://streak-stats.demolab.com/?user=hardikkumar4472&count_private=true&theme=react&border_radius=10&hide_border=false" alt="streak stats"/>
-  
-  <!-- General stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hardikkumar4472&show_icons=true&theme=react&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" alt="readme stats" />
+  <!-- Current streak, longest streak & total contributions -->
+  <img
+    width="390"
+    src="https://streak-stats.demolab.com?user=hardikkumar4472&theme=react&border_radius=10&date_format=j%20M%5B%20Y%5D&hide_border=false"
+    alt="GitHub contribution streak (current & longest streak, total contributions)"
+  />
+
+  <!-- Overall GitHub stats -->
+  <img
+    width="390"
+    src="https://github-readme-stats.vercel.app/api?username=hardikkumar4472&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=false"
+    alt="GitHub stats (commits, stars, PRs, etc.)"
+  />
 </div>
 
 <br/>
+
 <div align="center">
-  <!-- Top languages -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkumar4472&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=false" alt="top langs" />
+  <!-- Year‑wise contribution details + activity timeline -->
+  <img
+    width="800"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardikkumar4472&theme=github_dark"
+    alt="Year‑wise GitHub profile summary (contribution timeline, most active time, etc.)"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Most used languages -->
+  <img
+    width="390"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkumar4472&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=false"
+    alt="Most used languages"
+  />
+
+  <!-- Productive time (by hour & day) -->
+  <img
+    width="390"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hardikkumar4472&theme=github_dark&utcOffset=5.5"
+    alt="Productive time (local time vs. weekday)"
+  />
 </div>
 
 <br/>
