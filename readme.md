@@ -116,7 +116,7 @@
   ### 🤝 Let's Connect
   <br/>
   <a href="mailto:hardikkumar4472@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hardikkumar4472%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-hardikv715%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/hardikkumar4472">
     <img src="https://img.shields.io/badge/LinkedIn-Hardik%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
