@@ -4,7 +4,9 @@
 <div align="center">
   
   <!-- Animated headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hardik+Kumar+%F0%9F%91%8B+Software+Developer+%7C+Backend+%7C+ML+Enthusiast;Building+scalable+and+data-driven+systems" alt="Typing SVG" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hardik+Kumar+%F0%9F%91%8B;Software+Developer+%7C+Backend+%7C+ML+Enthusiast;Building+scalable+and+data-driven+systems" alt="Typing SVG" />
+</p>
 
   <!-- Short professional intro -->
   <p align="center">
